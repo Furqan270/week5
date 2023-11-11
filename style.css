@@ -1,0 +1,32 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+.regis{
+    align-items: center;
+}
+.form-regis {
+    display: block;
+
+}
+.tab-content {
+  display: none;
+}
+.form-regis input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    border-radius: 10px;
+    resize: vertical;
+}
+
+button{
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 19px
+}
+
